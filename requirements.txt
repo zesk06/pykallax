@@ -1,0 +1,8 @@
+# runtime
+requests
+click
+# dev
+isort
+black
+ipython
+ipdb
